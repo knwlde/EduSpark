@@ -1,2 +1,2 @@
 # EduSpark
-! [EduSpark](./img/eduspark.png)
+![EduSpark](./img/eduspark.png)
