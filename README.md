@@ -1,2 +1,6 @@
 # EduSpark
-Ignite Your Learning Potential. / 点燃你的学习潜能
+div align="center">
+  <a href="https://www.camel-ai.org/">
+    <img src="docs/images/banner.png" alt="Banner">
+  </a>
+</div>
